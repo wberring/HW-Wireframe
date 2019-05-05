@@ -1,83 +1,90 @@
-
+body{
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    color: #777;
+    background: #777;
+    width: 960px;
+    font-size: 18px;
+}
 
 .header{
     padding: 25px;
     margin: 10px;
-    background: #fff;
-    font-family: arial;
+    background: #ebebeb;
     line-height: 1em;
     text-align: center;
     color:grey;
+    width: 495px;
 } 
 
 .nav{
     padding: 25px;
     margin: 10px;
-    background: #fff;
-    font-family: arial;
+    background: #ebebeb;
     line-height: 1em;
     text-align: center;
     color:grey;
+    width: 495px;
 } 
 
 .section{
     padding: 80px;
     margin: 10px;
-    background: #fff;
-    font-family: arial;
+    background: #ebebeb;
     line-height: 1em;
     text-align: center;
     color:grey;
+    width: 495px;
+
 } 
 
 .aside{
     padding: 80px;
     margin: 10px;
-    background: #fff;
-    font-family: arial;
+    background: #ebebeb;
     line-height: 1em;
     text-align: center;
     color:grey;
-} 
+    width: 495px;
+}
 
 
 .article{
     padding: 55px;
     margin: 10px;
-    background: #808080;
-    font-family: arial;
+    background: #777;
     line-height: 1em;
     text-align: center;
-    color:white;
+    color:#ebebeb;
+    width: 240px;
 } 
 
 .h{
     padding: 10px;
     margin: 10px;
-    background: #fff;
-    font-family: arial;
+    background: #ebebeb;
     font-weight: bold;
     line-height: 1em;
     text-align: center;
-    color:grey;
+    color:#777;
+    width: 200px;
 } 
 
 .p{
     padding: 10px;
     margin: 10px;
-    background: #fff;
-    font-family: arial;
+    background: #ebebeb;
     line-height: 1em;
     text-align: center;
-    color:grey;
+    color:777;
+    width: 200px;
 } 
 
 .footer{
     padding: 25px;
-    background: #eee;
-    font-family: arial;
+    background: #ebebeb;
     line-height: 1em;
     text-align: center;
+    width: 495px;
 }
 
 
